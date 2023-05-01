@@ -1,0 +1,51 @@
+.title {
+    text-align: center;
+}
+
+.first_box {
+    text-align: center;
+    background-color: bisque;
+    border-radius: 10px;
+    margin: 0 auto;
+    width: 50%;
+    padding:20px;
+    margin-bottom: 40px;
+}
+
+.first_title {
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.info_list{
+    list-style: none;
+}
+
+.info_list li {
+    font-weight: bolder;
+}
+
+
+.second_box {
+    text-align: center;
+    background-color: bisque;
+    border-radius: 10px;
+    margin: 0 auto;
+    width: 50%;
+    padding:20px;
+}
+
+.second_title {
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.hobby_list {
+    display: table;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.hobby_list li{
+    font-weight: bolder;
+}
